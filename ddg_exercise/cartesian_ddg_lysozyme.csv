@@ -1,0 +1,7 @@
+,record_ID,pdb,mutation,chain,mutation_short,protherm_ID,ddg_expt_protherm,ddg_expt_individ_protherm,kellogg_ID,ddg_expt_kellogg,ddg_expt_individ_kellogg,ddg_expt_frenz,ddg_calc
+981,1037,1L63,A L 99 A,A,L99A,814,4.533333333,5.0_5.0_4.5_4.6_4.0_4.1,1130,4.5,4.5,,11.1824
+982,1038,1L63,A L 99 F,A,L99F,903,0.33,0.36_0.3,,,,,3.0072
+983,1039,1L63,A L 99 G,A,L99G,866,6.85,7.4_6.3,1131,6.3,6.3,,17.7416
+984,1040,1L63,A L 99 I,A,L99I,884,1.45,1.4_1.5,,,,,5.1644
+985,1041,1L63,A L 99 M,A,L99M,914,0.583333333,0.4_0.75_0.6,,,,,3.367
+986,1042,1L63,A L 99 V,A,L99V,863,2.135,2.27_2.0,,,,,6.5974
